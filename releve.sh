@@ -1,4 +1,4 @@
-#!/bin/bash
+echo "Relevé enregistré pour $1 ($2 °C)#!/bin/bash
 # Usage ./releve.sh <ville> <temperature>
 if [ $# -ne 2 ]; then
   echo "Usage ./releve.sh <ville> <temperature>"
